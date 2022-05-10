@@ -320,6 +320,11 @@ button:focus,
         height: 100%;
     }
 
+    .profile_portrait {
+        width: 100%;
+        height: auto;
+    }
+
 }
 
 @media all and (min-width: 500px) and (max-width: 750px) {
