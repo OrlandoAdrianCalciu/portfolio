@@ -113,6 +113,7 @@ button:focus,
 .profile {
     max-width: 700px;
     margin: 0 auto;
+    text-align: center;
 }
 
 * {
@@ -259,6 +260,11 @@ button:focus,
     .page-header img {
         width: 100px;
         height: 100%;
+    }
+
+    .profile_portrait {
+        width: 100%;
+        height: auto;
     }
 
 }
